@@ -18,4 +18,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::post('/search', 'mainController@search'); // get search result
+Route::get('/search', 'mainController@search'); // get search result
