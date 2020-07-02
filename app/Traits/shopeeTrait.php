@@ -44,7 +44,7 @@ trait shopeeTrait
         // ) )
         // ->asJson()->get());
         // return response()->json(Curl::to('https://shopee.co.id/api/v2/search_items/?by=relevancy&keyword=kaos%20wanita&limit=150&newest=0&order=desc&page_type=search&version=2')->asJson()->get());
-        $client = new Client();
+        $client = new GuzzleHttp\Client();
         // Send a request to https://foo.com/api/test
         $response = $client->request('GET', 'https://shopee.co.id/api/v2/search_items/?by=relevancy&keyword=kaos%20wanita&limit=150&newest=0&order=desc&page_type=search&version=2');
         return $response;
