@@ -40,7 +40,7 @@ trait shopeeTrait
         
         //for production
         $client = new \GuzzleHttp\Client();
-        $response = $client->request('GET', 'https://shopee.co.id/api/v2/search_items/?by=relevancy&keyword=kaos%20wanita&limit=150&newest=0&order=desc&page_type=search&version=2');
+        $response = $client->request('GET', 'https://shopee.co.id/api/v2/search_items/?by=relevancy&keyword=kaos%20wanita&limit=100&newest=0&order=desc&page_type=search&version=2');
         $data = json_decode($response->getBody(), true);
         $list_item = $data['items'];
         for($i=0;$i<count($list_item);$i++){
