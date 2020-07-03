@@ -81,7 +81,7 @@ trait shopeeTrait
                 'produk_terjual' => $c_data['historical_sold'],
                 'harga_before_diskon' => $c_data['price_before_discount'],
                 'harga_after_diskon' => $c_data['price'],
-                'diskon' => $c_data['price_min_before_discount'],
+                'diskon' => $c_data['discount'],
                 'stok' => $c_data['stock'],
                 'array_rating_produk' => [
                     $c_data['item_rating']['rating_count'][1],
