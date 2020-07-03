@@ -16,6 +16,7 @@ class CreateTAttributes extends Migration
         Schema::create('t_attribut', function (Blueprint $table) {
             $table->id();
             $table->string('nama_attribut');
+            $table->string('nama_field');
             $table->timestamps();
         });
     }

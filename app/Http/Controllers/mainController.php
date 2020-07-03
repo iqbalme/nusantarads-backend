@@ -24,7 +24,8 @@ class mainController extends Controller
     public function search(Request $request){
         $request->request->add(['db_attribut' => $this->attributes]);
         $response = $this->shopee_query($request);
-        $data = json_decode($response);
-        return $data->items[0]->name;
+        // $data = json_decode($response);
+        // return $data->items[0]->name;
+        return $response;
     }
 }

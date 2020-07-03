@@ -1,0 +1,107 @@
+{
+    "urlnya": "https://shopee.co.id/api/v2/shop/get?is_brief=1&shopid=38016237",
+    "version": "948d0850a7c86021efb05ed174bcabac",
+    "data": {
+        "campaign_config": null,
+        "rating_normal": 900,
+        "followed": null,
+        "userid": 59491678,
+        "shopid": 59490248,
+        "show_official_shop_label_in_normal_position": null,
+        "rating_bad": 139,
+        "mtime": 1593765670,
+        "has_decoration": true,
+        "is_shopee_verified": false,
+        "cancellation_rate": 0,
+        "is_official_shop": false,
+        "vacation": false,
+        "show_low_fulfillment_warning": false,
+        "item_count": 133,
+        "is_ab_test": false,
+        "preparation_time": 109364,
+        "follower_count": 108258,
+        "cb_option": 0,
+        "shop_location": "KOTA JAKARTA BARAT",
+        "enable_display_unitno": false,
+        "status": 1,
+        "is_blocking_owner": null,
+        "description": "😍 BELI 4 KAOS 100.000 😍\n\nHai! Welcome to CAROTYLES 🤗\n\n1st SUPPLIER TUMBLR TEE, OPEN DROPSHIP/RESELLER 💯\n______________________________________________\nBahan 100% Katun Combed 30s\n(Setara Giordano):\n❣️ Halus\n❣️ Adem\n❣️ Tidak tembus dan Tebal\n\n🔥BERKUALITAS dengan Harga SUPER MURAH\n🔥WARNA dan DESAIN yang KEKINIAN dan gak pasaran. \n\nSize Chart:       LD (cm)x Panjang (cm)\nAllsize Cewe:            90 x 55-60 cm\nOversized Unisex: 100 x 60-63 cm\n\n\nXOXO\nCAROTYLES\n💋",
+        "rating_good": 30610,
+        "is_semi_inactive": null,
+        "show_official_shop_label": false,
+        "shop_covers": [{
+                "redirect_url_type": null,
+                "type": 0,
+                "image_url": "e8a5c6fa787d2b2c61ee63486d30a164",
+                "redirect_url": null,
+                "video_url": ""
+            },
+            {
+                "redirect_url_type": null,
+                "type": 0,
+                "image_url": "4358b09596dbde0a3c0cfd44aa86dde1",
+                "redirect_url": null,
+                "video_url": ""
+            },
+            {
+                "redirect_url_type": null,
+                "type": 0,
+                "image_url": "4a3239482c9db5d130a6f030213fd8e8",
+                "redirect_url": null,
+                "video_url": ""
+            },
+            {
+                "redirect_url_type": null,
+                "type": 0,
+                "image_url": "1d323cb66e468fe7b81ba411c18c63d1",
+                "redirect_url": null,
+                "video_url": ""
+            }
+        ],
+        "show_official_shop_label_in_title": false,
+        "campaign_id": 0,
+        "buyer_rating": {
+            "rating_star": 5,
+            "rating_count": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        "chat_disabled": false,
+        "show_live_tab": false,
+        "response_time": 85024,
+        "ctime": 1520339570,
+        "account": {
+            "username": "toosnatched",
+            "following_count": 1,
+            "hide_likes": 0,
+            "email_verified": true,
+            "fbid": "",
+            "total_avg_star": 4.798704,
+            "phone_verified": true,
+            "feed_account_info": {
+                "can_post_feed": true,
+                "is_kol": false
+            },
+            "portrait": "780f95205fce3fc96ad09bdda62d5c6b",
+            "is_seller": true
+        },
+        "response_rate": 98,
+        "disable_make_offer": 0,
+        "name": "Carotyles",
+        "rating_star": 4.798684,
+        "country": "ID",
+        "show_shopee_verified_label": false,
+        "cover": "e8a5c6fa787d2b2c61ee63486d30a164",
+        "place": "KOTA JAKARTA BARAT - TAMBORA, DKI JAKARTA, ID",
+        "has_flash_sale": true,
+        "last_active_time": 1593765377,
+        "real_url_if_matching_custom_url": null
+    },
+    "error_msg": null,
+    "error": 0
+}

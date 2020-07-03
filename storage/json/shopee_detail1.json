@@ -1,0 +1,460 @@
+{
+    "urlnya": "https://shopee.co.id/api/v2/item/get?itemid=1832984036&shopid=38016237",
+    "item": {
+        "itemid": 5906820952,
+        "price_max_before_discount": 5000000000,
+        "item_status": "normal",
+        "can_use_wholesale": false,
+        "show_free_shipping": false,
+        "estimated_days": 2,
+        "is_hot_sales": null,
+        "is_slash_price_item": false,
+        "upcoming_flash_sale": null,
+        "slash_lowest_price": null,
+        "condition": 1,
+        "add_on_deal_info": null,
+        "is_non_cc_installment_payment_eligible": false,
+        "categories": [{
+                "display_name": "Pakaian Wanita",
+                "catid": 32,
+                "image": null,
+                "no_sub": false,
+                "is_default_subcat": false,
+                "block_buyer_platform": null
+            },
+            {
+                "display_name": "Atasan",
+                "catid": 819,
+                "image": null,
+                "no_sub": false,
+                "is_default_subcat": true,
+                "block_buyer_platform": null
+            },
+            {
+                "display_name": "Kaos",
+                "catid": 7278,
+                "image": null,
+                "no_sub": true,
+                "is_default_subcat": false,
+                "block_buyer_platform": null
+            }
+        ],
+        "ctime": 1573719644,
+        "name": "KAOS WANITA GOOD BABY KATUN T SHIRT ATASAN BAJU WANITA PEREMPUAN TUMBLR TEE FASHION WANITA CEWEK",
+        "show_shopee_verified_label": false,
+        "size_chart": null,
+        "is_pre_order": false,
+        "service_by_shopee_flag": 0,
+        "historical_sold": 4768,
+        "reference_item_id": "",
+        "recommendation_info": null,
+        "bundle_deal_info": {
+            "bundle_deal_id": 2082387,
+            "bundle_deal_label": "Pilih 4, bayar Rp100.000"
+        },
+        "price_max": 2900000000,
+        "has_lowest_price_guarantee": false,
+        "shipping_icon_type": 0,
+        "images": [
+            "ae48af3a7037a92177222bbcc860f9ba",
+            "6623fc0816d567abbb5373dd48e4692b",
+            "1b4635e1f9d26fc904c03c255fca7d50",
+            "f01d298f1e9604f9e1c7677265231b87",
+            "e956eb82835429d070e8817d7cb2fffb",
+            "4c69359f2d256b6dcc56e1faefbdd4dc",
+            "4ec95269f449ba57436e9a383fe75f94",
+            "d21991f23ba22aab1d8e5273328b2c2c",
+            "45ee09f9573ed110af4eeb2b1513e632"
+        ],
+        "price_before_discount": 4000000000,
+        "cod_flag": 1,
+        "catid": 32,
+        "is_official_shop": false,
+        "coin_earn_label": null,
+        "hashtag_list": [
+            "#kaoswanita",
+            "#tshirtwanita",
+            "#kaostumblr",
+            "#tee",
+            "#bajucewek",
+            "#bajuwanita",
+            "#bajuwanitamurah",
+            "#bajuwanitaatasan",
+            "#kaoscewek",
+            "#kaos",
+            "#baju",
+            "#bajumurah",
+            "#atasan",
+            "#atasanwanita",
+            "#tshirt",
+            "#pakaian",
+            "#pakaianwanita",
+            "#atasanmurah"
+        ],
+        "sold": 66,
+        "makeup": null,
+        "item_rating": {
+            "rating_star": 4.759924,
+            "rating_count": [
+                2116,
+                15,
+                28,
+                56,
+                252,
+                1765
+            ],
+            "rcount_with_image": 686,
+            "rcount_with_context": 683
+        },
+        "show_official_shop_label_in_title": false,
+        "discount": "44%",
+        "reason": "",
+        "label_ids": [
+            1000433,
+            1000515,
+            35,
+            1000439,
+            1000454,
+            1000006,
+            1000167,
+            1000265,
+            1000375,
+            1000419,
+            1000271,
+            1000016,
+            1000209,
+            1000530,
+            1000307,
+            1000246,
+            1000247,
+            1000504,
+            1000507,
+            1000124,
+            1000031
+        ],
+        "has_group_buy_stock": false,
+        "deep_discount": null,
+        "attributes": [{
+                "is_pending_qc": false,
+                "idx": 0,
+                "value": "Tidak Ada Merek",
+                "id": 20636,
+                "is_timestamp": false,
+                "name": "Merek"
+            },
+            {
+                "is_pending_qc": true,
+                "idx": 1,
+                "value": "Lokal",
+                "id": 16490,
+                "is_timestamp": false,
+                "name": "Asal Produk"
+            },
+            {
+                "is_pending_qc": true,
+                "idx": 2,
+                "value": "Katun",
+                "id": 16491,
+                "is_timestamp": false,
+                "name": "Bahan"
+            },
+            {
+                "is_pending_qc": true,
+                "idx": 3,
+                "value": "Casual",
+                "id": 16492,
+                "is_timestamp": false,
+                "name": "Style"
+            }
+        ],
+        "badge_icon_type": 0,
+        "liked": false,
+        "cmt_count": 2116,
+        "image": "ae48af3a7037a92177222bbcc860f9ba",
+        "recommendation_algorithm": null,
+        "is_cc_installment_payment_eligible": false,
+        "shopid": 59490248,
+        "normal_stock": 154,
+        "video_info_list": [{
+            "duration": 22,
+            "video_id": "J24CtQAidSHGhTP4",
+            "thumb_url": "b127ddfdb161a68af89af6a285574f2b"
+        }],
+        "installment_plans": null,
+        "view_count": null,
+        "current_promotion_has_reserve_stock": false,
+        "liked_count": 9842,
+        "show_official_shop_label": false,
+        "price_min_before_discount": 4000000000,
+        "show_discount": 44,
+        "preview_info": null,
+        "flag": 196608,
+        "current_promotion_reserved_stock": 0,
+        "wholesale_tier_list": [],
+        "group_buy_info": null,
+        "shopee_verified": false,
+        "hidden_price_display": null,
+        "transparent_background_image": "",
+        "welcome_package_info": null,
+        "coin_info": {
+            "spend_cash_unit": 100000,
+            "coin_earn_items": []
+        },
+        "is_adult": null,
+        "currency": "IDR",
+        "raw_discount": 44,
+        "is_category_failed": false,
+        "price_min": 2800000000,
+        "can_use_bundle_deal": true,
+        "cb_option": 0,
+        "brand": "Tidak Ada Merek",
+        "stock": 154,
+        "status": 1,
+        "bundle_deal_id": 2082387,
+        "is_group_buy_item": null,
+        "description": "Ready Stock!\nADA PROMO 100K/4PCS (Boleh Campur)\n\nBAHAN : Katun Combed 30s (adem dan tebal ❤)\nKaos Wanita Tumblr Berbahan Premium dan Sablon Premium \n----------------------------------------------\nSIZE :\nAllsize (Fit to L) Ld 90cm\nPanjang: 55cm\n\n🛍Cara Pembelian :\nKlik Keranjang, Pilih dan masukan satu persatu Variasi & Quantity produk yang anda inginkan dahulu.\nLalu klik \"Check Out\", isi alamat, lanjut opsi \"Pengiriman\" dan terakhir opsi \"Pembayaran\"\n\nNOTE PENTING/MOHON DIBACA : \n-> Untuk mengetahui ketersedian BARANG, silahkan klik kolom Variasi. Jika bisa di klik artinya READY, jika tidak bisa di klik artinya KOSONG.\n\n-> Mohon diorder sesuai varian produk yg tersedia.Karena orderan kami proses sesuai variasi yang dipilih\n-> No Resi akan diinput otomatis 1 hari setelah pengiriman/ keesokan harinya (H+1)\n-> Mohon isi alamat yang lengkap (RT/RW/KODE POS), dan gunakan nomor aktif, Stand by agar dapat di hubungi sehingga pesanan bisa segera sampai.\n\n-> Komplain & menanyakan ttg produk bisa langsung hubungi kami.\n\n‼️WAJIB BACA: Jika ada KOMPLAIN mengenai Kaos\nSilahkan chat kami, PASTI kami akan proses dan bertanggung jawab ❤️ JANGAN LANGSUNG MEMBERI PENILAIAN BURUK ‼️ Mohon kebijaksanaan nya dalam membeli.\n\nHappy Shopping ❤️\n\n#kaoswanita #tshirtwanita #kaostumblr #tee #bajucewek #bajuwanita #bajuwanitamurah #bajuwanitaatasan #kaoscewek #kaos #baju #bajumurah #atasan #atasanwanita #tshirt #pakaian #pakaianwanita #atasanmurah",
+        "flash_sale": null,
+        "models": [{
+                "itemid": 5906820952,
+                "status": 1,
+                "current_promotion_reserved_stock": 0,
+                "name": "PANJANG,ARMY",
+                "promotionid": 1054068160,
+                "price": 3400000000,
+                "current_promotion_has_reserve_stock": false,
+                "currency": "IDR",
+                "normal_stock": 0,
+                "extinfo": {
+                    "seller_promotion_limit": 0,
+                    "has_shopee_promo": false,
+                    "group_buy_info": null,
+                    "holiday_mode_old_stock": null,
+                    "tier_index": [
+                        0,
+                        0
+                    ],
+                    "seller_promotion_refresh_time": 1609358400
+                },
+                "price_before_discount": 5000000000,
+                "modelid": 14943094799,
+                "sold": 101,
+                "stock": 0
+            },
+            {
+                "itemid": 5906820952,
+                "status": 1,
+                "current_promotion_reserved_stock": 0,
+                "name": "PANJANG,KUNING",
+                "promotionid": 1054068160,
+                "price": 3400000000,
+                "current_promotion_has_reserve_stock": false,
+                "currency": "IDR",
+                "normal_stock": 0,
+                "extinfo": {
+                    "seller_promotion_limit": 0,
+                    "has_shopee_promo": false,
+                    "group_buy_info": null,
+                    "holiday_mode_old_stock": null,
+                    "tier_index": [
+                        0,
+                        1
+                    ],
+                    "seller_promotion_refresh_time": 1609358400
+                },
+                "price_before_discount": 5000000000,
+                "modelid": 14943094800,
+                "sold": 94,
+                "stock": 0
+            },
+            {
+                "itemid": 5906820952,
+                "status": 1,
+                "current_promotion_reserved_stock": 0,
+                "name": "PANJANG,PUTIH",
+                "promotionid": 1054068160,
+                "price": 3400000000,
+                "current_promotion_has_reserve_stock": false,
+                "currency": "IDR",
+                "normal_stock": 0,
+                "extinfo": {
+                    "seller_promotion_limit": 0,
+                    "has_shopee_promo": false,
+                    "group_buy_info": null,
+                    "holiday_mode_old_stock": null,
+                    "tier_index": [
+                        0,
+                        2
+                    ],
+                    "seller_promotion_refresh_time": 1609358400
+                },
+                "price_before_discount": 5000000000,
+                "modelid": 14943094801,
+                "sold": 105,
+                "stock": 0
+            },
+            {
+                "itemid": 5906820952,
+                "status": 1,
+                "current_promotion_reserved_stock": 0,
+                "name": "PENDEK,ARMY",
+                "promotionid": 1054068160,
+                "price": 2800000000,
+                "current_promotion_has_reserve_stock": false,
+                "currency": "IDR",
+                "normal_stock": 0,
+                "extinfo": {
+                    "seller_promotion_limit": 0,
+                    "has_shopee_promo": false,
+                    "group_buy_info": null,
+                    "holiday_mode_old_stock": null,
+                    "tier_index": [
+                        1,
+                        0
+                    ],
+                    "seller_promotion_refresh_time": 1609358400
+                },
+                "price_before_discount": 5000000000,
+                "modelid": 14943094802,
+                "sold": 1119,
+                "stock": 0
+            },
+            {
+                "itemid": 5906820952,
+                "status": 1,
+                "current_promotion_reserved_stock": 0,
+                "name": "PENDEK,KUNING",
+                "promotionid": 1054068160,
+                "price": 2800000000,
+                "current_promotion_has_reserve_stock": false,
+                "currency": "IDR",
+                "normal_stock": 53,
+                "extinfo": {
+                    "seller_promotion_limit": 0,
+                    "has_shopee_promo": false,
+                    "group_buy_info": null,
+                    "holiday_mode_old_stock": null,
+                    "tier_index": [
+                        1,
+                        1
+                    ],
+                    "seller_promotion_refresh_time": 1609358400
+                },
+                "price_before_discount": 5000000000,
+                "modelid": 14943094803,
+                "sold": 519,
+                "stock": 53
+            },
+            {
+                "itemid": 5906820952,
+                "status": 1,
+                "current_promotion_reserved_stock": 0,
+                "name": "PENDEK,PUTIH",
+                "promotionid": 1054068160,
+                "price": 2800000000,
+                "current_promotion_has_reserve_stock": false,
+                "currency": "IDR",
+                "normal_stock": 55,
+                "extinfo": {
+                    "seller_promotion_limit": 0,
+                    "has_shopee_promo": false,
+                    "group_buy_info": null,
+                    "holiday_mode_old_stock": null,
+                    "tier_index": [
+                        1,
+                        2
+                    ],
+                    "seller_promotion_refresh_time": 1609358400
+                },
+                "price_before_discount": 5000000000,
+                "modelid": 14943094804,
+                "sold": 584,
+                "stock": 55
+            },
+            {
+                "itemid": 5906820952,
+                "status": 1,
+                "current_promotion_reserved_stock": 0,
+                "name": "PANJANG,HITAM",
+                "promotionid": 0,
+                "price": 5000000000,
+                "current_promotion_has_reserve_stock": false,
+                "currency": "IDR",
+                "normal_stock": 0,
+                "extinfo": {
+                    "seller_promotion_limit": null,
+                    "has_shopee_promo": null,
+                    "group_buy_info": null,
+                    "holiday_mode_old_stock": null,
+                    "tier_index": [
+                        0,
+                        3
+                    ],
+                    "seller_promotion_refresh_time": 0
+                },
+                "price_before_discount": 0,
+                "modelid": 50064270278,
+                "sold": 0,
+                "stock": 0
+            },
+            {
+                "itemid": 5906820952,
+                "status": 1,
+                "current_promotion_reserved_stock": 0,
+                "name": "PENDEK,HITAM",
+                "promotionid": 1054068160,
+                "price": 2900000000,
+                "current_promotion_has_reserve_stock": false,
+                "currency": "IDR",
+                "normal_stock": 46,
+                "extinfo": {
+                    "seller_promotion_limit": 0,
+                    "has_shopee_promo": false,
+                    "group_buy_info": null,
+                    "holiday_mode_old_stock": null,
+                    "tier_index": [
+                        1,
+                        3
+                    ],
+                    "seller_promotion_refresh_time": 1609358400
+                },
+                "price_before_discount": 4000000000,
+                "modelid": 50064270279,
+                "sold": 34,
+                "stock": 46
+            }
+        ],
+        "price": 2800000000,
+        "shop_location": "KOTA JAKARTA BARAT",
+        "tier_variations": [{
+                "images": null,
+                "properties": null,
+                "type": 0,
+                "name": "LENGAN",
+                "options": [
+                    "PANJANG",
+                    "PENDEK"
+                ]
+            },
+            {
+                "images": null,
+                "properties": null,
+                "type": 0,
+                "name": "WARNA",
+                "options": [
+                    "ARMY",
+                    "KUNING",
+                    "PUTIH",
+                    "HITAM"
+                ]
+            }
+        ],
+        "makeups": null,
+        "welcome_package_type": 0,
+        "show_official_shop_label_in_normal_position": null,
+        "item_type": 0
+    },
+    "version": "aac132e0117e9209db8fdf81fcd29dfc",
+    "data": null,
+    "error_msg": null,
+    "error": null
+}
