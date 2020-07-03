@@ -35,7 +35,8 @@ class mSearch extends Model
         'produk_thumbnail',
         'is_free_shipping',
         'store_location',
-        'pre_order'
+        'pre_order',
+        'source'
     ];
 
     // protected $casts = ['age' => 'integer'];

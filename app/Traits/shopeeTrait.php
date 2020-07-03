@@ -98,7 +98,8 @@ trait shopeeTrait
                 'produk_thumbnail' => 'https://cf.shopee.co.id/file/'.$c_data['image'].'_tn',
                 'is_free_shipping' => $c_data['show_free_shipping'],
                 'store_location' => $s_data['shop_location'],
-                'pre_order' => $c_data['is_pre_order']
+                'pre_order' => $c_data['is_pre_order'],
+                'source' => 'shopee'
             ]);
         return $temp_data;
     }
