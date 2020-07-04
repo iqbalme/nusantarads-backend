@@ -48,12 +48,12 @@ trait shopeeTrait
                 'itemid' => $list_item[$i]['itemid'],
                 'shopid' => $list_item[$i]['shopid'],
             ];
-            $list_produk[] = $this->process_model($t_data);
+            $list_produk[] = $this->shopee_process_model($t_data);
         }
         return $list_produk;
     }
 
-    private function process_model($data){
+    private function shopee_process_model($data){
         $itemid = $data['itemid'];
         $shopid = $data['shopid'];
         $c_produk = Curl::to('https://shopee.co.id/api/v2/item/get?itemid='.$itemid.'&shopid='.$shopid)
